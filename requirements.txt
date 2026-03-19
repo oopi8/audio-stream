@@ -1,0 +1,6 @@
+pyaudiowpatch
+sounddevice
+numpy
+pystray
+Pillow
+pyinstaller
