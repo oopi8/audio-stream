@@ -7,3 +7,4 @@ build/
 config.json
 *.egg-info/
 .env
+.DS_Store
